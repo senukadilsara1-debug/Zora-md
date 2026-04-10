@@ -10,7 +10,7 @@ AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
 ANTI_BAD_WORD: process.env.ANTI_BAD_WORD || "true",
 AUTO_REPLY: process.env.AUTO_REPLY || "true",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/l06cb8.jpg",
-ALIVE_MSG: process.env.ALIVE_MSG || "HELLO IM ᴊᴏᴄᴋᴇʀ-ᴍᴅ CREATED BY ꜱᴇɴᴜᴋᴀ <NOW ALIVE> "
+ALIVE_MSG: process.env.ALIVE_MSG || "HELLO IM 𝐙𝐎𝐑𝐀-𝐌𝐃 CREATED BY 𝐒𝐄𝐍𝐔𝐊𝐀 𝐃𝐈𝐋𝐒𝐀𝐑𝐀 <NOW ALIVE> "
 };
  HASHAN <NOW ALIVE> "
 };
