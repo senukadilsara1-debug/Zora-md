@@ -1,12 +1,12 @@
 {
-  "name": "ᴊᴏᴄᴋᴇʀ-ᴍᴅ",
+  "name": "𝐙𝐎𝐑𝐀-𝐌𝐃",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ᴊᴏᴄᴋᴇʀ-ᴍᴅ",
-    "stop": "pm2 stop ᴊᴏᴄᴋᴇʀ-ᴍᴅ",
-    "restart": "pm2 restart ᴊᴏᴄᴋᴇʀ-ᴍᴅ"
+    "start": "pm2 start index.js --deep-monitoring --attach --name 𝐙𝐎𝐑𝐀-𝐌𝐃",
+    "stop": "pm2 stop 𝐙𝐎𝐑𝐀-𝐌𝐃",
+    "restart": "pm2 restart 𝐙𝐎𝐑𝐀-𝐌𝐃"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
